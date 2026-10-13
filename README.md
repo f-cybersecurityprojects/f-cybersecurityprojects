@@ -1,4 +1,6 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Farid Anwari! <br/><a href="#">Programmer </a>, <a href="#">IT Support Rep & Systems Specialist</a></h1>
+
+<h3>Networking • Cybersecurity • Linux • Programming • Web Development</h3>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
