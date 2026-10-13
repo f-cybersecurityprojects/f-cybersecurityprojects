@@ -4,7 +4,7 @@
 
 <h2>Projects:</h2>
 
-<a href="#"><h1><b>1. Active Directory Home Lab</b></h1></a>
+<h1><a href="#"><b>1. Active Directory Home Lab</b></a></h1>
 
 <h3>Description</h3>
 
@@ -13,7 +13,7 @@
 <b>Skills demonstrated</b>: Active Directory, Windows Server, Group Policy, user management, access control, and IT troubleshooting.</p>
 
 
-<b><a href="#">2. Windows Enterprise IT Support Lab</a></b>
+<h1><b><a href="#">2. Windows Enterprise IT Support Lab</a></b></h1>
 
 <h3>Description</h3>
 
@@ -21,7 +21,7 @@
 
 <b>Skills demonstrated</b>: Windows administration, Active Directory, Group Policy, user management, troubleshooting, and technical documentation.</p>
 
-<a href='#'><b>3. Small Business Network Design and Configuration</b></a>
+<h1><a href='#'><b>3. Small Business Network Design and Configuration</b></a></h1>
 
 <h3>Description</h3>
 
@@ -29,7 +29,7 @@
 
 <b>Skills demonstrated</b>: Network configuration, subnetting, VLANs, routing, DHCP, DNS, network security, and troubleshooting.</p>
 
-<a href='#'><b>4. Security Operations Center (SOC) Monitoring Lab</b></a>
+<h1><a href='#'><b>4. Security Operations Center (SOC) Monitoring Lab</b></a></h1>
 
 <h3>Description</h3>
 
@@ -38,7 +38,7 @@
 <b>Skills demonstrated</b>: SIEM monitoring, security log analysis, alert investigation, threat detection, incident documentation, and security fundamentals.</p>
 
 
-<a href='#'><b>5. Network Troubleshooting and Packet Analysis Lab</b></a>
+<h1><a href='#'><b>5. Network Troubleshooting and Packet Analysis Lab</b></a></h1>
 
 <h3>Description</h3>
 
