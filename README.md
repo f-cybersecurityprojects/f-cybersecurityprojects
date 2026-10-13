@@ -13,7 +13,7 @@
 <b>Skills demonstrated</b>: Active Directory, Windows Server, Group Policy, user management, access control, and IT troubleshooting.</p>
 
 
-<b><a href="#">2. Windows Enterprise IT Support Lab<</a></b>
+<b><a href="#">2. Windows Enterprise IT Support Lab</a></b>
 
 <h3>Description</h3>
 
