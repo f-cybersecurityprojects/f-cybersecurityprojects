@@ -1,5 +1,5 @@
 <!-- <h1>Hi, I'm Farid Anwari! <br/><a href="#">Programmer </a>, <a href="#">IT Support Rep & Systems Specialist</a></h1> -->
-<h1>Hi, I'm Farid Anwari! <br/>Programmer ,IT Support Rep & Systems Specialist</h1>
+<h1>Hi, I'm Farid Anwari! <br/>Programmer & IT Support Rep & Systems Specialist</h1>
 <h3>Networking • Cybersecurity • Linux • Programming • Web Development</h3>
 
 <h2>Projects:</h2>
@@ -103,7 +103,7 @@ Jobs it supports: IT Support Specialist, Junior Systems Administrator, IT Operat
 <h2>Certifications:</h2>
 
 - <b><a href="#">CompTIA A+ Certification</a></b>
-- <b><a href="#">CompTIA Netwokr+ Certification</a></b>
+- <b><a href="#">CompTIA Network+ Certification</a></b>
 - <b><a href="#">CompTIA Security+ Certification</a></b>
 
 <h2> 🤳 Connect with me:</h2>
