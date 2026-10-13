@@ -103,7 +103,7 @@ Jobs it supports: IT Support Specialist, Junior Systems Administrator, IT Operat
 <h2>Certifications:</h2>
 
 - <b><a href="#">CompTIA A+ Certification</a></b>
-- <b><a href="#">CompTIA Netwokr+ Certification</a></b>
+- <b><a href="#">CompTIA Network+ Certification</a></b>
 - <b><a href="#">CompTIA Security+ Certification</a></b>
 
 <h2> 🤳 Connect with me:</h2>
