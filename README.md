@@ -25,7 +25,7 @@
 
 <h3>Description</h3>
 
-<p>Design and configure a simulated network for a small business with multiple departments, such as HR, Finance, IT, and Sales. Create separate VLANs to isolate departments, configure IP addressing, DHCP, DNS, and routing, and apply access control lists to restrict unnecessary communication between networks. Test the network, simulate connectivity failures, and document how you identify and resolve problems.
+<p>Designed and configure a simulated network for a small business with multiple departments, such as HR, Finance, IT, and Sales. Create separate VLANs to isolate departments, configure IP addressing, DHCP, DNS, and routing, and apply access control lists to restrict unnecessary communication between networks. Test the network, simulate connectivity failures, and document how you identify and resolve problems.
 
 <b>Skills demonstrated</b>: Network configuration, subnetting, VLANs, routing, DHCP, DNS, network security, and troubleshooting.</p>
 
@@ -42,7 +42,7 @@
 
 <h3>Description</h3>
 
-<p>Create a collection of realistic network troubleshooting scenarios using Wireshark and standard diagnostic tools. Investigate problems involving DNS resolution, failed connections, slow network communication, packet retransmissions, and unexpected traffic patterns. Capture network packets, interpret the evidence, identify the likely root cause, and document the steps taken to resolve each issue.
+<p>Created a collection of realistic network troubleshooting scenarios using Wireshark and standard diagnostic tools. Investigate problems involving DNS resolution, failed connections, slow network communication, packet retransmissions, and unexpected traffic patterns. Capture network packets, interpret the evidence, identify the likely root cause, and document the steps taken to resolve each issue.
 
 <b>Skills demonstrated</b>: Wireshark, TCP/IP, DNS, network diagnostics, packet analysis, root-cause analysis, and technical reporting..</p>
 
