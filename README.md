@@ -8,7 +8,9 @@
 
 <h3>Description</h3>
 
-<p></p>
+<p>Build a virtual Windows enterprise environment using Windows Server and Active Directory to simulate a company's IT infrastructure. Create and manage user accounts, security groups, and organizational units (OUs). Configure Group Policy to enforce password policies and security settings, join Windows computers to the domain, and troubleshoot common issues such as account lockouts, login failures, and access permissions.
+
+<b>Skills demonstrated</b>: Active Directory, Windows Server, Group Policy, user management, access control, and IT troubleshooting.</p>
 
 
 <b>2. Windows Enterprise IT Support Lab</b>
