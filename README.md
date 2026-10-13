@@ -4,7 +4,7 @@
 
 <h2>Projects:</h2>
 
-<a href="#"><b>1. Active Directory Home Lab</b></a>
+<a href="#"><h1><b>1. Active Directory Home Lab</b></h1></a>
 
 <h3>Description</h3>
 
