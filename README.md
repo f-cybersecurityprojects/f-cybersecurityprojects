@@ -4,24 +4,24 @@
 
 <h2>Projects:</h2>
 
-<b>1. Active Directory Home Lab</b>
+<a href="#"><b>1. Active Directory Home Lab</b></a>
 
 <h3>Description</h3>
 
-<p>Build a virtual Windows enterprise environment using Windows Server and Active Directory to simulate a company's IT infrastructure. Create and manage user accounts, security groups, and organizational units (OUs). Configure Group Policy to enforce password policies and security settings, join Windows computers to the domain, and troubleshoot common issues such as account lockouts, login failures, and access permissions.
+<p>Built a virtual Windows enterprise environment using Windows Server and Active Directory to simulate a company's IT infrastructure. Create and manage user accounts, security groups, and organizational units (OUs). Configure Group Policy to enforce password policies and security settings, join Windows computers to the domain, and troubleshoot common issues such as account lockouts, login failures, and access permissions.
 
 <b>Skills demonstrated</b>: Active Directory, Windows Server, Group Policy, user management, access control, and IT troubleshooting.</p>
 
 
-<b>2. Windows Enterprise IT Support Lab</b>
+<b><a href="#">2. Windows Enterprise IT Support Lab<</a>/b>
 
 <h3>Description</h3>
 
-<p>Build a simulated business IT environment using Windows Server and Windows client computers. Set up a domain so employees can log in with company accounts, access shared resources, and receive security policies. Create different departments, configure permissions, manage user accounts, and troubleshoot common IT issues such as locked accounts, password resets, login failures, and access problems.
+<p>Built a simulated business IT environment using Windows Server and Windows client computers. Set up a domain so employees can log in with company accounts, access shared resources, and receive security policies. Create different departments, configure permissions, manage user accounts, and troubleshoot common IT issues such as locked accounts, password resets, login failures, and access problems.
 
 <b>Skills demonstrated</b>: Windows administration, Active Directory, Group Policy, user management, troubleshooting, and technical documentation.</p>
 
-<b>3. Small Business Network Design and Configuration</b>
+<a href='#'><b>3. Small Business Network Design and Configuration</b></a>
 
 <h3>Description</h3>
 
@@ -29,16 +29,16 @@
 
 <b>Skills demonstrated</b>: Network configuration, subnetting, VLANs, routing, DHCP, DNS, network security, and troubleshooting.</p>
 
-<b>4. Security Operations Center (SOC) Monitoring Lab</b>
+<a href='#'><b>4. Security Operations Center (SOC) Monitoring Lab</b></a>
 
 <h3>Description</h3>
 
-<p>Build a home cybersecurity lab that collects and analyzes security logs from Windows computers. Use a security monitoring platform such as Wazuh to detect suspicious activity, including repeated failed logins, unusual account activity, and potentially malicious processes. Investigate generated alerts, determine whether they represent suspicious behavior, and produce incident reports explaining the evidence, findings, and recommended response.
+<p>Built a home cybersecurity lab that collects and analyzes security logs from Windows computers. Use a security monitoring platform such as Wazuh to detect suspicious activity, including repeated failed logins, unusual account activity, and potentially malicious processes. Investigate generated alerts, determine whether they represent suspicious behavior, and produce incident reports explaining the evidence, findings, and recommended response.
 
 <b>Skills demonstrated</b>: SIEM monitoring, security log analysis, alert investigation, threat detection, incident documentation, and security fundamentals.</p>
 
 
-<b>5. Network Troubleshooting and Packet Analysis Lab</b>
+<a href='#'><b>5. Network Troubleshooting and Packet Analysis Lab</b></a>
 
 <h3>Description</h3>
 
