@@ -1,5 +1,5 @@
 <!-- <h1>Hi, I'm Farid Anwari! <br/><a href="#">Programmer </a>, <a href="#">IT Support Rep & Systems Specialist</a></h1> -->
-<center><h1>Hi, I'm Farid Anwari! <br/>Programmer & IT Support Rep & Systems Specialist</h1></center>
+<h1>Hi, I'm Farid Anwari! <br/>Programmer & IT Support Rep & Systems Specialist</h1>
 <h3>Networking • Cybersecurity • Linux • Programming • Web Development</h3>
 
 <h2>Projects:</h2>
